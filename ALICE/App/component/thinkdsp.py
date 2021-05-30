@@ -1,8 +1,9 @@
-"""COPYRIGHT NOTICE 2013 Allen B. Downey
+'''
+COPYRIGHT NOTICE 2013 Allen B. Downey
 This file contains code used in "Think DSP" available from greenteapress.com
 This License is Authorized for Fair Use under:
 GNU GPLv3 http://www.gnu.org/licenses/gpl.html
-"""
+'''
 
 from __future__ import print_function, division
 
