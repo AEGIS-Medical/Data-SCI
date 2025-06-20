@@ -1,2 +1,2 @@
 # Data-SCI
-Projects demonstrating various data science techniques
+This Project has been moved to ....
